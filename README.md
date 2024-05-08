@@ -3,7 +3,7 @@
 * Add ingame Console
 * Toggle Vignette (Annoying black corners, really helpful if you are using OLED, makes the screen much more bright) (Press Numpad zero ingame to toggle vignette)
 * Toggle Launcher Intro Movie and music. (I found the Intro movie to be slow and annoying, and the music way to loud)
-* PageUp/PageDown Toggles the weapon, this is a bit glitchy as it quicksaves and quickloads everytime.
+* (ME3 only) PageUp/PageDown Toggles the weapon, this is a bit glitchy as it quicksaves and quickloads everytime.
 
 The bat files, disable and enable intro movies and music in the launcher. (Remember to change the game path in each file before running them)
 
